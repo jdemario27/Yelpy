@@ -2,8 +2,6 @@
 
 Yelpy is an app that allows users to view Yelp restaurants.
 
-## Flix Part 1
-
 ### User Stories
 Users can view and scroll through a list of Yelp restaurants.
 
